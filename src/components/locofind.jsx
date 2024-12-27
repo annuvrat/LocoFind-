@@ -3,7 +3,7 @@ import {
   MapPin, 
   Loader2, 
   AlertTriangle, 
-  Cloud, 
+  Cloud,  
   Thermometer, 
   Wind, 
   Droplet,
